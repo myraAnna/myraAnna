@@ -15,7 +15,7 @@ Welcome to my corner on GitHub! I'm a passionate Software Engineer based in Mala
 📫 Feel free to reach out: myraannatasha.myr@gmail.com
 
 ### Let's Connect!
-- [LinkedIn]((https://www.linkedin.com/in/myra-annatasha-myr98/)https://www.linkedin.com/in/myra-annatasha-myr98/)
+- [LinkedIn](https://www.linkedin.com/in/myra-annatasha-myr98/)https://www.linkedin.com/in/myra-annatasha-myr98/)
 - [Website](https://myra-annatasha.pages.dev)
 
 
