@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?myraAnna&color=dc143c)
-
 # Hi there! 👋 I'm Myra Annatasha
 
 Welcome to my corner on GitHub! I'm a passionate Software Engineer based in Malaysia, driven by the thrill of turning innovative ideas into tangible tech solutions. Here's a peek into what defines me:
