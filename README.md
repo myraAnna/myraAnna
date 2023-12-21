@@ -11,7 +11,7 @@ Welcome to my corner on GitHub! I'm a passionate Software Engineer based in Mala
 - **Blockchain Development:** Experienced in creating blockchain-based applications.
 - **Problem-Solving Skills:** Proficiency in analyzing complex problems and devising effective solutions.
 
-### My Current Adventure 
+### My Current Adventure 🧠
 Currently delving into **web3 development** with a focus on **Ethereum** and **Solidity** smart contracts. Looking forward to mastering more advanced Solidity concepts and contributing to the Ethereum ecosystem by deploying my first dApp.
 
 📫 Feel free to reach out: myraannatasha.myr@gmail.com
