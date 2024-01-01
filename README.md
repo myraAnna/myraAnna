@@ -24,8 +24,7 @@ Currently delving into **web3 development** with a focus on **Ethereum** and **S
 
 ---
 
-© 2023 Myra Annatasha. All Rights Reserved.
-
+© 2024 Myra Annatasha.
 
 
 
